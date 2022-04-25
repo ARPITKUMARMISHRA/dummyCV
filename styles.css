@@ -1,0 +1,18 @@
+body{
+  /* background-color:#FFEEEE; */
+  background-image: url("bg2.jpeg");
+}
+ hr{
+   /* background-color: white; */
+   border-style: none;
+   border-top: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 10%;
+ }
+h1 {
+  color: BLACK;
+}
+h3 {
+  color:#66BFBF;
+}
